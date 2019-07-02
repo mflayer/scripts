@@ -1,0 +1,20 @@
+# g910 led profile
+# vars
+var orange fd6a02
+var lime ffff00
+var purple ff00ff
+var cyan 00ffff
+var arch 1793d1
+var manj 34bf5c
+
+# set colors for groups
+g logo $arch
+g fkeys $purple
+g modifiers $orange
+g arrows $lime
+g numeric $cyan
+g functions $manj
+g keys $arch
+g gkeys $manj
+
+c # Commit changes
